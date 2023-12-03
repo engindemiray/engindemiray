@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:3200/format:webp/0*de0IdiUSoJTwgsys.gif)
 <h1 align="center">Hi 👋, I'm Engin Demiray</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
 
