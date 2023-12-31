@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Engin Demiray</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engindemiray&label=Profile%20views&color=0e75b6&style=flat" alt="engindemiray" /> </p>
-
 - 🌱 I’m currently learning **Go.**
 
 - 📫 How to reach me **engindemiraydev@gmail.com**
